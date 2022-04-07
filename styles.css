@@ -1,0 +1,57 @@
+/* header section */
+/* hero section */
+
+#hero-section{
+    width: 90%;
+    margin-left: 5%;
+}
+
+h1{
+    font-size: 2.5em;
+    font-weight: bold;
+    color: rgb(196, 37, 37);
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 20px;
+}
+h3{
+    font-size: 1.5em;
+    font-weight: bold;
+    color: rgb(87, 85, 85);
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 20px;
+}
+.hero-para{
+    font-size: 1.5em;
+    font-weight: bold;
+    color: rgb(87, 85, 85);
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.film-img{
+    width: 100%;
+}
+.film-role{
+    margin-top: 0;
+}
+.bro-img{
+    width: 250px;
+    margin-left: 60%;
+    padding: 0 5% 0 5%;
+}
+.hero-images{
+    display: flex;
+}
+.tagline-1{
+    text-align: center;
+    margin-top: 5%;
+}
+.para-section{
+    background-color: #fcd5ce;
+    padding: 5%;
+    
+}
