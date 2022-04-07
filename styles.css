@@ -64,6 +64,10 @@ h3{
     padding: 5%;
     
 }
+.bro-img:hover{
+    transform: scale(1.1);
+    transition: all 0.5s ease-in-out;
+}
 
 /* FEATURE SECTION */
 #feature-section{
@@ -115,4 +119,25 @@ h3{
     color: rgb(76, 76, 77);
     width: 70%;
     margin-left: 15%;
+}
+
+.grad-items1:hover{
+    transform: scale(1.1);
+    transition: all 0.5s ease-in-out;
+}
+.grad-items2:hover{
+    transform: scale(1.1);
+    transition: all 0.5s ease-in-out;
+}
+.grad-items3:hover{
+    transform: scale(1.1);
+    transition: all 0.5s ease-in-out;
+}
+.grad-items4:hover{
+    transform: scale(1.1);
+    transition: all 0.5s ease-in-out;
+}
+.grad-img:hover{
+    transform: scale(1.1);
+    transition: all 0.5s ease-in-out;
 }
