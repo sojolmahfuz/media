@@ -65,6 +65,11 @@ h3{
     
 }
 
+/* FEATURE SECTION */
+#feature-section{
+   background-color: #F7F5F2;
+}
+
 /* WHY SECTION */
 .why-section{
     display: flex;
@@ -81,4 +86,28 @@ h3{
 .f-features{
     width: 100%;
     margin-top: 10%;
+}
+
+/* GRADUATE SECTION */
+
+#graduate-section{
+    background-color: #F0FFC2;
+}
+.graduate-main{
+    display: flex;
+}
+.grad-elements{
+    margin-top: 10%;
+}
+.grad-items1{
+    color: rgb(161, 31, 31);
+}
+.grad-items2{
+    color: rgb(66, 161, 31);
+}
+.grad-items3{
+    color: rgb(19, 63, 196);
+}
+.grad-items4{
+    color: rgb(191, 10, 228);
 }
