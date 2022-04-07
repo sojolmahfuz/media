@@ -15,6 +15,15 @@ h1{
     padding: 0;
     margin-bottom: 20px;
 }
+h2{
+    font-size: 1.5em;
+    font-weight: bold;
+    color: rgb(196, 37, 37);
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 20px;
+}
 h3{
     font-size: 1.5em;
     font-weight: bold;
@@ -54,4 +63,13 @@ h3{
     background-color: #fcd5ce;
     padding: 5%;
     
+}
+
+/* WHY SECTION */
+.why-section{
+    display: flex;
+    padding: 5%;
+}
+.f-img{
+    width: 80%;
 }
